@@ -1,0 +1,12 @@
+D:\faculta\ASC\BCD\BCD\bin\Debug\BCD.exe.config
+D:\faculta\ASC\BCD\BCD\bin\Debug\BCD.exe
+D:\faculta\ASC\BCD\BCD\bin\Debug\BCD.pdb
+D:\faculta\ASC\BCD\BCD\obj\Debug\BCD.csprojAssemblyReference.cache
+D:\faculta\ASC\BCD\BCD\obj\Debug\BCD.exe
+D:\faculta\ASC\BCD\BCD\obj\Debug\BCD.pdb
+D:\Ale\faculta\ASC\BCD\BCD\bin\Debug\BCD.exe.config
+D:\Ale\faculta\ASC\BCD\BCD\bin\Debug\BCD.exe
+D:\Ale\faculta\ASC\BCD\BCD\bin\Debug\BCD.pdb
+D:\Ale\faculta\ASC\BCD\BCD\obj\Debug\BCD.csprojAssemblyReference.cache
+D:\Ale\faculta\ASC\BCD\BCD\obj\Debug\BCD.exe
+D:\Ale\faculta\ASC\BCD\BCD\obj\Debug\BCD.pdb
